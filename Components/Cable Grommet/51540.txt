@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-15022021-061244";"";
+"REFERENCE";"51540";"";
+"TraceParts.PartTitle";"Brush cable glands, split";"";
+"TraceParts.InstanceId";"90-15022021-061244ECHQ30S7VFWIKLYGAKVYLGSV1";"";
+"SUPPLIER";"icotek GmbH & Co. KG";"";
+"DESIGN";"KEL-BES-S 50 / Brush plate for cable pass-through, split, with locknut, M50 x 1,5";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.0";"";

@@ -24,3 +24,9 @@ Furthermore, all 3D printed parts have been designed to be used with heat set in
 Insert the heat set inserts with a soldering iron. Tip: don’t insert the last bit of the insert with the soldering iron, but quickly push it in with a flat surface (e.g. a table) in order to make it flush.
 
 If you use different heat set inserts than specified in the [parts list](@TODO), you may need to adjust the hole diameter of these parts. You can use the `heat_insert_test_print.SLDPRT` file as a test file for finding the proper hole dimensions. You also find these [guidelines](https://www.spirol.com/assets/files/ins-wp-how-to-design-the-proper-hole-for-heat-ultrasonic-inserts-us.pdf) useful for adjusting the heat set insert holes.
+
+### Vinyl Wrap (Optional)
+
+You may want to apply vinyl wrap to the sheet metal to make it look more professional. 
+You can roughly follow the steps described [here](https://www.wikihow.com/Apply-Vinyl-Wrap). Furthermore, to remove excess vinyl wrap, you can also use a small file. This is especially handy for smaller parts and screw holes. 
+

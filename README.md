@@ -9,10 +9,10 @@ This repository contains the SolidWorks files for the SPOT backpack that is used
   - [Constraints](/Documentation/04-constraints.md)
   - [Requirements](/Documentation/03-quality-attributes.md)
   - [Principles](/Documentation/05-principles.md)
-  - List of parts
+  - List of Parts
   - [Manufacturing Instructions](/Documentation/xx-manufacturing-instructions.md)
-  - Assembly instructions
-  - Power Distribution Electrical diagram 
+  - [Assembly Instructions](/Documentation/xx-assembly-instructions.md)
+  - Power Distribution Electrical Diagram 
   - ...
 
 # Specifications
@@ -30,6 +30,7 @@ This repository contains the SolidWorks files for the SPOT backpack that is used
 
 ```md
 SPOT Backpack Repository
+├── Backpack Assembly.SLDASM                  # Solidworks Assembly containing all parts
 ├── Solidworks Files 
 │   ├── Components (FIND BETTER NAME)
 │   ├── Sheet Metal Components
@@ -41,7 +42,7 @@ SPOT Backpack Repository
 
 Other
 - PWR Distribution
-- Parts List (csv's)
+- Parts List (csv's) / BOM
 
 
 ## Known Issues

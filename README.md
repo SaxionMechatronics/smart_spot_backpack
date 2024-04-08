@@ -8,9 +8,9 @@ This repository contains the SolidWorks files for the SPOT backpack that is used
   - [Context](/Documentation/01-context.md)
   - [Constraints](/Documentation/04-constraints.md)
   - [Requirements](/Documentation/03-quality-attributes.md)
-  - [Princples](/Documentation/05-principles.md)
+  - [Principles](/Documentation/05-principles.md)
   - List of parts
-  - Manufacturing Instructions
+  - [Manufacturing Instructions](/Documentation/xx-manufacturing-instructions.md)
   - Assembly instructions
   - Power Distribution Electrical diagram 
   - ...
@@ -41,7 +41,7 @@ SPOT Backpack Repository
 
 Other
 - PWR Distribution
-- Parts List
+- Parts List (csv's)
 
 
 ## Known Issues

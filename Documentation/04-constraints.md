@@ -1,14 +1,15 @@
 ## Constraints
 
-This section states the constraints that affect the design of the backpack. The constraints and images are taken from the [Payload Developer Guide](https://dev.bostondynamics.com/docs/payload/payload_configuration_requirements.html) by Boston Dynamics and where applicable, further elaborated on.
+This section states the constraints that affect the design of the backpack. The constraints and images w.r.t to SPOT are taken from the [Payload Developer Guide](https://dev.bostondynamics.com/docs/payload/payload_configuration_requirements.html) by Boston Dynamics and where applicable, further elaborated on.
 
-These constraints are: 
+Constraints include: 
 - Mounting Surface
 - Weight
 - Width
 - Length
 - Height
 - Power Connections
+- Sheet Metal Parts Manufacturing
 
 ## Mounting Surface
 The only mounting surface that SPOT provides are aluminum rails that are located along the left and right edges of the body. The rails accept T-slot nuts such as Misumi HNTR5-5. Mounting screws should not project more than 6.3mm below the top surface of the mounting rail.
@@ -43,6 +44,10 @@ The height of the payload impacts the robot’s ability to self-right and increa
 
 The [General Expansion Payload (GXP)](https://support.bostondynamics.com/s/article/Spot-General-Expansion-Payload-GXP) provides power and ethernet communication to SPOT. 
 Specifically, it provides a maximum of 150W shared between 12V and 24V 5V at a maximum of 10W via a HD15 connector. The pin out can be found on the documentation site of the GXP.
+
+## Sheet Metal Parts Manufacturing
+
+Sheet metal parts have been manufatured via [247TailorSteel](https://www.247tailorsteel.com/en) which uses [SOPHIA](https://www.247tailorsteel.com/nl/sophia) as an online software tool for their manufaturing process. All sheet metal parts have to comply to their [manufacturing guidelines](https://www.247tailorsteel.com/en/service/submission-rules-and-guidelines), which include for example guidelines on cutting and bending of sheet metal parts.
 
 
 

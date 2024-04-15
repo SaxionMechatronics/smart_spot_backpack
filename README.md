@@ -5,15 +5,15 @@ This repository contains the SolidWorks files for the SPOT backpack that is used
 ![Picture of backpack.](/Images/Photos/KIWA_2.jpg "SPOT backpack being used in the CHARISMA project.") 
 
 # Documentation
-  - [Context](/Documentation/01-context.md)
-  - [Constraints](/Documentation/04-constraints.md)
-  - [Requirements](/Documentation/03-quality-attributes.md)
-  - [Principles](/Documentation/05-principles.md)
-  - List of Parts
-  - [Manufacturing Instructions](/Documentation/xx-manufacturing-instructions.md)
-  - [Assembly Instructions](/Documentation/xx-assembly-instructions.md)
-  - Power Distribution Electrical Diagram 
-  - ...
+  * [Context](/Documentation/01-context.md)
+  * [Constraints](/Documentation/04-constraints.md)
+  * [Requirements](/Documentation/03-quality-attributes.md)
+  * [Principles](/Documentation/05-principles.md)
+  * List of Parts
+  * [Manufacturing Instructions](/Documentation/xx-manufacturing-instructions.md)
+  * [Assembly Instructions](/Documentation/xx-assembly-instructions.md)
+  * Power Distribution Electrical Diagram 
+  * ...
 
 # Specifications
 
@@ -41,24 +41,25 @@ SPOT Backpack Repository
 ```
 
 Other
-- PWR Distribution
-- Parts List (csv's) / BOM
+* PWR Distribution
+* Parts List (csv's) / BOM
 
 
 ## Known Issues
-- Sometimes the assembly does not load after closing it. Restart the PC ...
+* Sometimes the assembly does not load after closing it. Restart the PC ...
 
 ## TODO
-- Release everything as step files
-- Check guideline for open source hardware ...
+* Release everything as step files
+* Check guideline for open source hardware ...
 
 ## Suggested Changes
 
 **MOVE TO DOCUMENTATION!**
-- Remove the holes on the sides of the outer shell for for the panels, they are not needed.
-- Remove the sheet metal bend in the middle of the main mounting plate, it is not needed.
-- Make the backpack larger, the current design is very cramped when you add all the wiring.
-- Make it rain proof
+* Remove the holes on the sides of the outer shell for for the panels, they are not needed.
+* Remove the sheet metal bend in the middle of the main mounting plate, it is not needed.
+* Make the backpack larger, the current design is very cramped when you add all the wiring.
+* Make it rain proof
+* Improve design of braces, too many screws for such a simple part ...
 
 
 ![Picture of backpack.](/Images/Photos/KIWA_1.jpg "SPOT backpack being used in the CHARISMA project.")

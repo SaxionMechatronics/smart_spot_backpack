@@ -30,3 +30,5 @@ If you use different heat set inserts than specified in the [parts list](@TODO),
 You may want to apply vinyl wrap to the sheet metal to make it look more professional. 
 You can roughly follow the steps described [here](https://www.wikihow.com/Apply-Vinyl-Wrap). Furthermore, to remove excess vinyl wrap, you can also use a small file. This is especially handy for smaller parts and screw holes. 
 
+![Comparison of wrapped and not wrapped backpacks.](/Images/Assembly%20Instructions/wrapping_comparison.jpg "Comparison of wrapped and not wrapped backpacks.") 
+*Comparison of backbacks with and without vinyl wrap.*

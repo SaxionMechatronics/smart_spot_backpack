@@ -2,18 +2,23 @@
 
 This repository contains the SolidWorks files for the SPOT backpack that is used in the CHARISMA project. 
 
-![Picture of backpack.](/Images/Photos/KIWA_2.jpg "SPOT backpack being used in the CHARISMA project.") 
+<p align="center" width="100%">
+    <img src="./Images/Photos/KIWA_2.jpg">
+    <br>
+    <em>SPOT backpack being used in the CHARISMA project.</em>
+</p>
+
 
 # Documentation
   * [Context](/Documentation/01-context.md)
   * [Constraints](/Documentation/04-constraints.md)
   * [Requirements](/Documentation/03-quality-attributes.md)
   * [Principles](/Documentation/05-principles.md)
-  * List of Parts
   * [Manufacturing Instructions](/Documentation/xx-manufacturing-instructions.md)
   * [Assembly Instructions](/Documentation/xx-assembly-instructions.md)
   * Power Distribution Electrical Diagram 
-  * ...
+  * List of Parts
+  * ADRs
 
 # Specifications
 
@@ -44,11 +49,8 @@ Other
 * PWR Distribution
 * Parts List (csv's) / BOM
 
-
-## Known Issues
-* Sometimes the assembly does not load after closing it. Restart the PC ...
-
 ## TODO
+* Upload images
 * Release everything as step files
 * Check guideline for open source hardware ...
 
@@ -61,5 +63,17 @@ Other
 * Make it rain proof
 * Improve design of braces, too many screws for such a simple part ...
 
+<p align="center">
+    <img src="./Images/CAD%20Images/full_backpack.png" style="display:inline-block; width:40%; margin-right:10px;">
+    <img src="./Images/CAD%20Images/inner_backpack2.png" style="display:inline-block; width:40%; margin-right:10px;">
+    <div style="clear:both;"></div>
+    <div style="text-align: center;">
+        <em>Full Solidworks assembly of the backpack.</em>
+    </div>
+</p>
 
-![Picture of backpack.](/Images/Photos/KIWA_1.jpg "SPOT backpack being used in the CHARISMA project.")
+<p align="center" width="100%">
+    <img src="./Images/Photos/KIWA_1.jpg">
+    <br>
+    <em>SPOT backpack being used in the CHARISMA project.</em>
+</p>

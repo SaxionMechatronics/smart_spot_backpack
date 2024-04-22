@@ -1,13 +1,13 @@
 # CHARISMA Backpack
 
-This repository contains the SolidWorks files for the SPOT backpack that is used in the CHARISMA project. 
-
 <p align="center" width="100%">
+  <img src="./Images/Logos/charisma_logo_blackwhite.png">
     <img src="./Images/Photos/KIWA_2.jpg">
     <br>
     <em>SPOT backpack being used in the CHARISMA project.</em>
 </p>
 
+This repository contains the SolidWorks files for the SPOT backpack that is used in the CHARISMA project. 
 
 # Documentation
   * [Context](/Documentation/01-context.md)
@@ -68,7 +68,7 @@ Other
     <img src="./Images/CAD%20Images/inner_backpack2.png" style="display:inline-block; width:40%; margin-right:10px;">
     <div style="clear:both;"></div>
     <div style="text-align: center;">
-        <em>Full Solidworks assembly of the backpack.</em>
+        <em>Solidworks assembly of the backpack.</em>
     </div>
 </p>
 
@@ -76,4 +76,8 @@ Other
     <img src="./Images/Photos/KIWA_1.jpg">
     <br>
     <em>SPOT backpack being used in the CHARISMA project.</em>
+</p>
+
+<p align="center">
+  <img src="./Images/Logos/Saxion_Smart_Logo_Green.png" style="width:50%">
 </p>

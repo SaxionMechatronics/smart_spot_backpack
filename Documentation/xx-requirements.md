@@ -31,9 +31,9 @@ This section dfescribes the functional and technical requirements for the SPOT b
 | --- | --- | --- | --- | 
 | TR0201 | The GNSS sensors of shall be located at the highest points of the backpack and not be occluded by any objects of the backpack. | Occlusions to the sky and reflections will disturb sensor readings. By placing the GNSS sensors at the highest point, we will get the best possible signal. | M | 
 | TR0202 | The bag pack shall allow for a minimum distance of 80cm between the GNSS sensors. | There needs to be sufficient distance between the sensors to accurately determine the heading of the robot. | M | 
-| TR0203 | The weight of the backpack shall be lower than 14.8 Kg where lower is better. | This is the maximum payload of SPOT. Reduced payload leads to reduced power consumption and thus longer operation times. **(CONSTRAINT)** | M | 
-| TR0204 | The width of the backpack shall be at most 19 cm. | When the robot is not powered or walking stairs, the robot’s legs may move into the designated design space **(CONSTRAINT)** | M | 
-| TR0205 | The length of the backpack shall be at most 85 cm. | Longer payloads will reduce maneuverability. **(CONSTRAINT)**  | M | 
+| TR0203 | The weight of the backpack shall be lower than 14.8 Kg where lower is better. | This is the maximum payload of SPOT. Reduced payload leads to reduced power consumption and thus longer operation times. | M | 
+| TR0204 | The width of the backpack shall be at most 19 cm. | When the robot is not powered or walking stairs, the robot’s legs may move into the designated design space | M | 
+| TR0205 | The length of the backpack shall be at most 85 cm. | Longer payloads will reduce maneuverability. | M | 
 | TR0206 | The backpack shall have an IP rating of 0 where higher is better. | The backpack is built for research purposes only, it is therefore not required to have a higher IP rating. | M | 
 | TR0207 | The backpack shall be made out of aluminum sheet metal. | Sheet metal parts are relative sturdy, cheap and easy to design. Additionally, they are easy to modify if needed  (e.g. drilling holes, filing). | S | 
 | TR0208 | The backpack shall have only screw holes with insert nuts (e.g. rivets nuts, heat inserts) on its outer shell. | 1) User friendliness: A user should be able to (un)-screw any object located on outer shell as easy as possible. 2) Reliability: The threading of tapped holes may deteriorate over time with repeated (un-)screwing. | S | 

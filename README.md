@@ -2,7 +2,7 @@
 
 <p align="center" width="100%">
   <img src="./Images/Logos/charisma_logo_blackwhite.png">
-    <img src="./Images/Photos/KIWA_2.jpg">
+    <img src="./Images/KIWA_Test_Day/KIWA_2.jpg">
     <br>
     <em>SPOT backpack being used in the CHARISMA project.</em>
 </p>
@@ -80,7 +80,7 @@ Other
 </p>
 
 <p align="center" width="100%">
-    <img src="./Images/Photos/KIWA_1.jpg">
+    <img src="./Images/KIWA_Test_Day/KIWA_1.jpg">
     <br>
     <em>SPOT backpack being used in the CHARISMA project.</em>
 </p>

@@ -8,7 +8,7 @@ The backpack has been developed within the CHARISMA project and is now released 
 As such, the backpack the contains it's own onboard PC, power distribution system, various power and media connectors as well as an array of screw holes on the top surface for mounting additional payloads such as sensors and actuators.
 
 <p align="center" width="100%">
-    <img src="../Images/Photos/KIWA_1.jpg">
+    <img src="../Images/KIWA_Test_Day/KIWA_1.jpg">
     <br>
     <em>SPOT backpack being used in the CHARISMA project at the KIWA test site in Apeldoorn.</em>
 </p>

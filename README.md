@@ -24,6 +24,7 @@ This repository contains the SolidWorks files for the SPOT backpack that is used
     * [Assembly Instructions](/Documentation/xx-assembly-instructions.md)
     * [Mounting Instructions](/Documentation/xx-mounting-instructions.md)
   * [Development Environment](/Documentation/12-development-environment.md)
+  * [SUpport and Contributions](/Documentation/11-support-and-contributions.md)
   * Decision Log (ADRs)
 
 # Specifications

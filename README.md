@@ -11,15 +11,20 @@ This repository contains the SolidWorks files for the SPOT backpack that is used
 
 # Documentation
   * [Context](/Documentation/01-context.md)
+  * Functional Overview / System Arch
   * [Quality Attributes](/Documentation/03-quality-attributes.md)
   * [Constraints](/Documentation/04-constraints.md)
   * [Requirements](/Documentation/xx-requirements.md)
   * [Principles](/Documentation/05-principles.md)
-  * [Manufacturing Instructions](/Documentation/xx-manufacturing-instructions.md)
-  * [Assembly Instructions](/Documentation/xx-assembly-instructions.md)
-  * Power Distribution Electrical Diagram 
-  * List of Parts
-  * ADRs
+  * Code (Implementation)
+    * Power Distribution Electrical Diagram 
+    * List of Parts
+  * Deployment (Instructions)
+    * [Manufacturing Instructions](/Documentation/xx-manufacturing-instructions.md)
+    * [Assembly Instructions](/Documentation/xx-assembly-instructions.md)
+    * [Mounting Instructions](/Documentation/xx-mounting-instructions.md)
+  * [Development Environment](/Documentation/12-development-environment.md)
+  * Decision Log (ADRs)
 
 # Specifications
 

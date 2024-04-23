@@ -17,3 +17,14 @@ In this diagram you can see that:
 - The top surface of the backpack inlcudes a cable grommet and an array of screw holes
 
 For a more in-depth electrical diagram, please see the [implementation](/Documentation/07-Implementation.md) section.
+
+Below you can see a 3D version of the Backpack in Solidworks (without any add-on components):
+
+<p align="center">
+    <img src="../Images/CAD%20Images/basic_backpack.png" style="display:inline-block; width:40%; margin-right:10px;">
+    <img src="../Images/CAD%20Images/inner_backpack2.png" style="display:inline-block; width:40%; margin-right:10px;">
+    <div style="clear:both;"></div>
+    <div style="text-align: center;">
+        <em>Solidworks assembly of the backpack.</em>
+    </div>
+</p>

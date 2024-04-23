@@ -27,7 +27,7 @@ Once you have inserted the rivets nuts into the holes, you will need to permanen
 * *FIND datasheet of pwr button!!!*
 * *Would also be best to embed circuit diagrams in here as well*
 
-Next, assemble as the panels as shown below. For each panel you will need 4x XXX M3 screws to screw the panel onto the 3D printed bracket. For the interface panel, it's advised to start from the bottom up: First insert the M12 power connectors, then the media connectors (from left to right: Ethernet, 2x USB, HDMI) and then finally the power button and the female RP-SMA connectors for the WIFI antennas. 
+Next, assemble as the panels as shown below. For each panel you will need 4x M3x10 screws to screw the panel onto the 3D printed bracket. For the interface panel, it's advised to start from the bottom up: First insert the M12 power connectors, then the media connectors (from left to right: Ethernet, 2x USB, HDMI) and then finally the power button and the female RP-SMA connectors for the WIFI antennas. For the media connectors, use 8x M3x12 screws.
 
 <p align="center" width="100%">
     <img src="../Images/Assembly%20Instructions/interface_panel.jpg">
@@ -40,7 +40,7 @@ Next, assemble as the panels as shown below. For each panel you will need 4x XXX
 ### Step 4: Assemble power distribution
 Next, assemble the power distribution. 
 After you have printed the power distribution mount, you have to insert the heat set inserts using a soldering iron. 
-Next, you will need a DIN rail of approximately 15 cm length. Screw the DIN rail into the heat inserts on top of the mount. 
+Next, you will need a DIN rail of approximately 15 cm length. Screw the DIN rail into the heat inserts on top of the mount using 2x M3x8 screws with washers. 
 Next, slide the PTFIX connectors onto the DIN rail and screw in the relays blocks as shown below.
 
 
@@ -66,7 +66,7 @@ For this custom connector you will need the following pins:
 * 12V: 7-8
 * 24V: 13-14
 
-When soldering the wires to it, make sure they are at least 50 cm long.
+Before soldering the wires to it, make sure they are at least 50 cm long.
 Once you are done soldering, you can add a braided sleeve around the wires to organize them neatly.
 
 <p align="center">
@@ -84,14 +84,14 @@ Once you are done soldering, you can add a braided sleeve around the wires to or
 
 Next, mount the interface panel (the one with all the connectors), the GXP and the power distribution mount. 
 
-Start with mounting the interface panel by inserting 2x M3x10 screws from the bottom of the main mounting plate. Note that the left and rigt side of the mounting plate differ in length. Make sure to connect this panel to the longer side, as shown below.
+Start with mounting the 3D printed bracket for interface panel by inserting 2x M3x10 screws from the bottom of the main mounting plate. Note that the left and rigt side of the mounting plate differ in length. Make sure to connect this panel to the longer side, as shown below.
 
 <p align="center">
     <img src="../Images/CAD%20Images/interface_bracket_mounting_plate.png" style="display:inline-block; width:30%; margin-right:10px;">
     <img src="../Images/CAD%20Images/bracket_mounting_plate_TOP.png" style="display:inline-block; width:30%; margin-right:10px;">
     <div style="clear:both;"></div>
     <div style="text-align: center;">
-        <em>Solidworks assembly of mounting plate and 3D printed interface bracket. Note how one side of the mounting plate is longer than the other.</em>
+        <em>Solidworks assembly of mounting plate and 3D printed interface bracket. Note how the right side of the mounting plate is longer than the other.</em>
     </div>
 </p>
 
@@ -106,8 +106,8 @@ Next, place the GXP onto the plate and mark its outline on the mounting plate. A
     </div>
 </p>
 
-Next, mount the GXP to the main mounting plate using XM5 screws (use nuts at the bottom of the mounting plate). Make sure the ethernet and HD15 port face towards the interface panel. 
-Take the cable from the GXP and lay it out to the left as shown below. Finally, you can mount the power distribution board with the relays facing the GXP. Here, use M3x8 scsrews.
+Next, mount the GXP to the main mounting plate using 2x M5x20 screws (use nuts at the bottom of the mounting plate). Make sure the ethernet and HD15 port face towards the interface panel. 
+Take the cable from the GXP and lay it out to the left as shown below. Finally, you can mount the power distribution board with the relays facing the GXP. Here, use 4x M3x8 screws.
 
 <p align="center">
     <img src="../Images/Assembly%20Instructions/internals1.jpg" style="display:inline-block; width:30%; margin-right:10px;">
@@ -123,6 +123,8 @@ Take the cable from the GXP and lay it out to the left as shown below. Finally, 
 **Relays**
 
 Next, we will connect the wires coming from the GXP to the the relays and the PTFIX connectors.
+
+**INSERT ELECTRICAL DIAGRAM**
 
 First we will take care of the power lines of the relays, which operate at 24V. Therefore, take both the 24V wires coming from the GXP and crimp them together with the N.O. connection of the power button (use a female spade connector).
 
@@ -173,7 +175,7 @@ If you now turn on SPOT and press the power button, the power button should ligh
 
 Next, we will connect the M12 connectors to the PTFIX blocks as shown in the diagram below:
 
-*SHOW electrical diagram*
+**Show electrical diagram**
 
 Here, we place for the 24V and the 12V lines inline fuses with a 4A fuse blades in between the PTFIX block and the M12 connectors, as the M12 connectors are rated for 4A. As the 5V line does provide power at 10W, it will never exceed the 4A rating of the M12 connectors, thus we do not need to add a fuse in between. 
 
@@ -195,7 +197,7 @@ Before we mount the PC, you have connect ground and either 12V or 24V to the scr
     <em>Grounded PC.</em>
 </p>
 
-Afterwards, connect the HDMI, USB, ethernet and antenna cables and mount the PC to the mounting plate using Xm3 screws. Finally, you can connect the second panel to this side of the backpack.
+Afterwards, connect the HDMI, USB, ethernet and antenna cables and mount the PC to the mounting plate using 2x M3x8 screws with washers. Finally, you can connect the second panel to this side of the backpack.
 
 ### Step 5: GNSS Wings (Optional)
 
@@ -207,9 +209,9 @@ Next, you can add the GNSS "wings" to the outershell of the backpack as shown be
     <em>GNSS wing with inserted brace for stability (without vinyl wrap).</em>
 </p>
 
-Start by inserting the braces into the wings using XM5 screws and nuts (first only the middle ones). Then mount the wings using 4 M5x10 screws to the outershell. Afterwards, insert the last 2 screws from the bottom of the outer shell. 
+Start by inserting the braces into the wings using 5x M5x12 screws and nuts (first only the middle ones) per wing. Then mount the wings using 4x M5x16 screws to the outershell. Afterwards, insert the last 2 screws to secure the brace from the bottom of the outer shell (2x M5x20). 
 
-Finally, screw on the GNSS sensors onto the wings using M2.5x8 screws. You can apply some foam to the mounting surface of the GNSS sensor as shown below. 
+Finally, screw on the GNSS sensors onto the wings using 3x M2.5x8 screws. You can apply some foam to the mounting surface of the GNSS sensor as shown below. 
 
 <p align="center" width="100%">
     <img src="../Images/Assembly%20Instructions/foam2.jpg">

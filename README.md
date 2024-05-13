@@ -17,8 +17,8 @@ This repository contains the SolidWorks files for the SPOT backpack that is used
   * [Requirements](/Documentation/xx-requirements.md)
   * [Principles](/Documentation/05-principles.md)
   * [Implementation](/Documentation/07-Implementation.md)
+    * List of Parts 
     * Power Distribution Electrical Diagram 
-    * List of Parts
   * [Instructions](/Documentation/8-instructions.md)
   * [Manufacturing Instructions](/Documentation/8.1-manufacturing-instructions.md)
   * [Assembly Instructions](/Documentation/8.2-assembly-instructions.md)
@@ -49,21 +49,18 @@ SPOT Backpack Repository
 │   └── 3D Printed Components
 ├── Documentation
 ├── Images
-└── ...
+└── Other Files
 ```
 
 Other
-* PWR Distribution
 * Parts List (csv's) / BOM
 
 ## TODO
-* Upload images
 * Release everything as step files
 * Check guideline for open source hardware ...
 
 ## Suggested Changes
 
-**MOVE TO DOCUMENTATION!**
 * Remove the holes on the sides of the outer shell for for the panels, they are not needed.
 * Remove the sheet metal bend in the middle of the main mounting plate, it is not needed.
 * Make the backpack larger, the current design is very cramped when you add all the wiring.
@@ -85,6 +82,16 @@ Other
     <em>SPOT backpack being used in the CHARISMA project.</em>
 </p>
 
+
+
+## Acknowledgments
+This work from the SMART research group in Saxion University of Applied Sciences was supported in part by:
+...
+
+
 <p align="center">
-  <img src="./Images/Logos/Saxion_Smart_Logo_Green.png" style="width:50%">
+    <img src="./Images/Logos/alliander.png" style="display:inline-block; width:30%; margin-right:10px;">
+    <img src="./Images/Logos/Saxion_Smart_Logo_Green.png" style="display:inline-block; width:30%; margin-right:10px;">
+    <img src="./Images/Logos/TFF_logo.png" style="display:inline-block; width:30%; margin-right:10px;">
+    <div style="clear:both;"></div>
 </p>

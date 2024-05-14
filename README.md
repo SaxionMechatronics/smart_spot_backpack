@@ -18,14 +18,15 @@ This repository contains the SolidWorks files for the SPOT backpack that is used
   * [Principles](/Documentation/05-principles.md)
   * [Implementation](/Documentation/07-Implementation.md)
     * List of Parts 
-    * Power Distribution Electrical Diagram 
+    * Power Distribution
   * [Instructions](/Documentation/8-instructions.md)
-  * [Manufacturing Instructions](/Documentation/8.1-manufacturing-instructions.md)
-  * [Assembly Instructions](/Documentation/8.2-assembly-instructions.md)
-  * [Mounting Instructions](/Documentation/8.3-mounting-instructions.md)
+    * [Manufacturing Instructions](/Documentation/8.1-manufacturing-instructions.md)
+    * [Assembly Instructions](/Documentation/8.2-assembly-instructions.md)
+    * [Mounting Instructions](/Documentation/8.3-mounting-instructions.md)
   * [Development Environment](/Documentation/12-development-environment.md)
   * [Support and Contributions](/Documentation/11-support-and-contributions.md)
   * [Architecture Decision Records](/Documentation/11-decision-log.md)
+  * [Suggested Changes](/Documentation/12-Suggested-Changes.md)
 
 # Specifications
 
@@ -52,21 +53,6 @@ SPOT Backpack Repository
 └── Other Files
 ```
 
-Other
-* Parts List (csv's) / BOM
-
-## TODO
-* Release everything as step files
-* Check guideline for open source hardware ...
-
-## Suggested Changes
-
-* Remove the holes on the sides of the outer shell for for the panels, they are not needed.
-* Remove the sheet metal bend in the middle of the main mounting plate, it is not needed.
-* Make the backpack larger, the current design is very cramped when you add all the wiring.
-* Make it rain proof
-* Improve design of braces, too many screws for such a simple part ...
-
 <p align="center">
     <img src="./Images/CAD%20Images/full_backpack.png" style="display:inline-block; width:40%; margin-right:10px;">
     <img src="./Images/CAD%20Images/inner_backpack2.png" style="display:inline-block; width:40%; margin-right:10px;">
@@ -82,16 +68,12 @@ Other
     <em>SPOT backpack being used in the CHARISMA project.</em>
 </p>
 
-
+## License
+This project is released under the [CERN OHL v2 Weakly Reciprocal](https://choosealicense.com/licenses/cern-ohl-w-2.0/) license. Feel free to use, modify, and distribute the hardware designs in accordance with the terms of the license.
 
 ## Acknowledgments
-This work from the SMART research group in Saxion University of Applied Sciences was supported in part by:
-...
+This work from the SMART research group at Saxion University of Applied Sciences was supported by the Alliander Research Center for Digital Technologies and TechForFuture.
 
-
-<p align="center">
-    <img src="./Images/Logos/alliander.png" style="display:inline-block; width:30%; margin-right:10px;">
-    <img src="./Images/Logos/Saxion_Smart_Logo_Green.png" style="display:inline-block; width:30%; margin-right:10px;">
-    <img src="./Images/Logos/TFF_logo.png" style="display:inline-block; width:30%; margin-right:10px;">
-    <div style="clear:both;"></div>
+<p align="center" width="100%">
+    <img src="./Images/Logos/Partner_Logos.png">
 </p>

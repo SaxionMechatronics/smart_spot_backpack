@@ -42,15 +42,19 @@ This repository contains the SolidWorks files for the SPOT backpack that is used
 # Directory Structure
 
 ```md
-SPOT Backpack Repository
-├── Backpack Assembly.SLDASM                  # Solidworks Assembly containing all parts
-├── Solidworks Files 
-│   ├── Components (FIND BETTER NAME)
-│   ├── Sheet Metal Components
-│   └── 3D Printed Components
+SPOT Backpack Repository                
+├── CAD 
+│   ├── 3D Drawings                     # .SLDPRT and .step files used in the assembly
+|   |   ├── 3D Print Components
+|   |   ├── Sheet Metal Components
+|   |   ├── Other Components
+│   |   └── Backpack Assembly.SLDASM    # Main assembly
+│   └── Production Drawings             # Parts to be produced
+|       ├── 3D Print Components         # .3MF files
+|       └── Sheet Metal Components      # .step files for SOPHIA
 ├── Documentation
 ├── Images
-└── Other Files
+└── Other Files                         
 ```
 
 <p align="center">

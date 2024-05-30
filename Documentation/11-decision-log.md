@@ -3,7 +3,7 @@
 In this section you can read the Architecture Decision Records (ADRs). 
 For an introdiction to ADRs, see [this](https://video.saxion.nl/media/Architecture+Design+Records+%28ADR%29+-+The+Basics/1_tbcapp6s) video.
 
-Please note that ADRs are immutable. if you want to revert your decision, or change it, make a new ADR. As Michael Nygard put it:
+Please note that ADRs are immutable. If you want to revert your decision, or change it, make a new ADR. As Michael Nygard put it:
 > If a decision is reversed, we will keep the old one around, but mark it as superseded. (It's still relevant to know that it was the decision, but is no longer the decision.)
 
 For new ADRs, you can find a template at the [bottom](#00x-template) of this page.
@@ -69,7 +69,7 @@ The other alternative would be to buy a different backpack. However, at the time
 ### Status
 Accepted.
 
-## #00X: Template
+## #000: Template
 
 ### Context
 *What is the issue that we're seeing that is motivating this decision or change?*

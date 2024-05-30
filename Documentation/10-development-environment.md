@@ -14,5 +14,5 @@ The development environment section describes the used hardware and software too
 * Crimp tool
 * Wire stripper
 * Allen key set
-* Phillips screwdriver
+* Philips screwdriver
 * Wrapping tools (Optional)

@@ -12,7 +12,6 @@ Constraints include:
 ## Mounting Surface
 The only mounting surface that SPOT provides are aluminum rails that are located along the left and right edges of the body. The rails accept T-slot nuts such as Misumi HNTR5-5. Mounting screws should not project more than 6.3mm below the top surface of the mounting rail.
 
-
 <p align="center" width="100%">
     <img src="../Images/Constraints/mounting_2.png" style="width:50%">
     <br>

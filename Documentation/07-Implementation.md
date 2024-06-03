@@ -2,9 +2,12 @@
 
 This section describes the implementation details of this system. For this hardware project it includes a list of parts and description of the power distribution.
 
-### List of parts
+### Bill of materials
 
-You can find a list of parts  including costs (where applicable) in `/Other Files`.
+You can find a bill of materials including costs and links to the respective products in `/Other Files`. Note that the list does not include tools and that some parts you may alrady have like the screws.
+
+The total price is ... for these specific parts. 
+
 
 ### Power Distribution
 

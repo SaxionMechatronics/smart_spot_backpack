@@ -19,4 +19,4 @@
 - Added parts for power distribution ([6791d271](https://bitbucket.org/mechatronica/spot_backpack_solidworks/commits/6791d27167c6e91782f205b29e68b7315a9438c7))
 
 ## 1.0.0
-- First prototype version by Nick
+- First prototype version by Nick Older Rikkert

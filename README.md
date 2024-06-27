@@ -7,7 +7,7 @@
     <em>SPOT backpack being used in the CHARISMA project.</em>
 </p>
 
-This repository contains the SolidWorks files for the SPOT backpack that is used in the CHARISMA project. 
+This repository contains the SolidWorks files and documentation for the SPOT backpack that is used in the CHARISMA project of the Smart Mechatronics And RoboTics (SMART) Research Group of the Saxion University of Applied Sciences. 
 
 # Documentation
   * [Context](/Documentation/01-context.md)

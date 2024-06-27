@@ -12,4 +12,3 @@ As such, the backpack the contains it's own onboard PC, power distribution syste
     <br>
     <em>SPOT backpack being used in the CHARISMA project at the KIWA test site in Apeldoorn.</em>
 </p>
-

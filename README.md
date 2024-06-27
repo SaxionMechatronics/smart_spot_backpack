@@ -1,13 +1,13 @@
-# CHARISMA Backpack
+# SMART SPOT Backpack
 
 <p align="center" width="100%">
   <img src="./Images/Logos/charisma_logo_blackwhite.png">
     <img src="./Images/KIWA_Test_Day/KIWA_2.jpg">
     <br>
-    <em>SPOT backpack being used in the CHARISMA project.</em>
+    <em>SMART SPOT backpack being used in the CHARISMA project.</em>
 </p>
 
-This repository contains the SolidWorks files and documentation for the SPOT backpack that is used in the CHARISMA project of the Smart Mechatronics And RoboTics (SMART) Research Group of the Saxion University of Applied Sciences. 
+This repository contains the SolidWorks files and documentation for the SMART SPOT Backpack: a backpack that has been developed for the Boston Dynamics robot SPOT as part of the CHARISMA project of the Smart Mechatronics And RoboTics (SMART) Research Group of the Saxion University of Applied Sciences. 
 
 # Documentation
   * [Context](/Documentation/01-context.md)
@@ -62,14 +62,14 @@ SPOT Backpack Repository
     <img src="./Images/CAD%20Images/inner_backpack2.png" style="display:inline-block; width:40%; margin-right:10px;">
     <div style="clear:both;"></div>
     <div style="text-align: center;">
-        <em>Solidworks assembly of the backpack.</em>
+        <em>Solidworks assembly of the SMART SPOT Backpack.</em>
     </div>
 </p>
 
 <p align="center" width="100%">
     <img src="./Images/KIWA_Test_Day/KIWA_1.jpg">
     <br>
-    <em>SPOT backpack being used in the CHARISMA project.</em>
+    <em>SMART SPOT Backpack in action.</em>
 </p>
 
 ## License

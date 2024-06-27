@@ -1,11 +1,11 @@
 ## Functional Overview
 
-This section gives a functional overview of the system as shown below: 
+This section gives a functional overview of the system as shown in figure 1: 
 
 <p align="center" width="100%">
     <img src="../Images/Diagrams/CHARISMA_sys_arch_dark.png" style="width:70%">
     <br>
-    <em>Functional overview of the SPOT Backpack.</em>
+    <em>Figure 1: Functional overview of the SPOT Backpack.</em>
 </p>
 
 In this diagram you can see that:
@@ -25,6 +25,6 @@ Below you can see a 3D version of the Backpack in Solidworks (without any add-on
     <img src="../Images/CAD%20Images/inner_backpack2.png" style="display:inline-block; width:40%; margin-right:10px;">
     <div style="clear:both;"></div>
     <div style="text-align: center;">
-        <em>Solidworks assembly of the backpack.</em>
+        <em>Figure 2: Solidworks assembly of the backpack.</em>
     </div>
 </p>

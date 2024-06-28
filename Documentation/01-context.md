@@ -1,6 +1,6 @@
 ## Context
 
-This is the open source hardware repository for the [Boston Dynamics SPOT](https://bostondynamics.com/products/spot/) backpack from the [Smart Mechatronics And RoboTics (SMART) research group](https://www.saxion.edu/business-and-research/research/smart-industry/mechatronics) from Saxion University of Applied Sciences.
+This is the open source hardware repository for the [Boston Dynamics SPOT](https://bostondynamics.com/products/spot/) backpack from the [Smart Mechatronics And RoboTics (SMART) research group](https://www.saxion.edu/business-and-research/research/smart-industry/mechatronics) of the Saxion University of Applied Sciences.
 
 The development of this backpack was driven by a commercial model previously used within our research group, which was difficult to modify for the needs of our projects.
 
@@ -12,3 +12,10 @@ As such, the backpack the contains it's own onboard PC, power distribution syste
     <br>
     <em>SPOT backpack being used in the CHARISMA project at the KIWA test site in Apeldoorn.</em>
 </p>
+
+***
+In the next section you read about functional overview of the system in which the functions and interfaces of the system are explained.
+
+> ➡️ [Next: Functional Overview](./02-functional-overview.md)
+
+> ⬅️ [Previous: A word on documentation](./01-context.md)

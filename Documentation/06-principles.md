@@ -27,3 +27,12 @@ Requirements have been written based on [EARS](https://www.researchgate.net/publ
 ### Repository Maintencance 
 Maintenance of the repository itself is based on [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
 
+***
+
+In the next section you can read about implementation details of the backpack, i.e. what parts have been used and how the power distribution has been designed.
+
+> ➡️ [Next: Implementation](./07-Implementation.md)
+
+> ⬅️ [Previous: Requirements](./05-requirements.md)
+
+

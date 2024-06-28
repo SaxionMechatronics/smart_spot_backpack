@@ -1,6 +1,6 @@
 ## Implementation
 
-This section describes the implementation details of this system. For this hardware project it includes a list of parts and description of the power distribution.
+This section describes the implementation details of this system. For this hardware project it includes a bill of materials and description of the power distribution.
 
 ### Bill of materials
 
@@ -67,6 +67,16 @@ Note that we use inline fuses due to space resctrictions of the backpack. If mor
 Next, you can see that the PC is connected to the 24V PTFIX distribution block. The Vecow SPC 7000 runs anywhere between 9-55V, you may choose to connect it to the 12V instead. Additionally, you can see that the PC is grounded to the mounting plate of the backpack.
 
 Finally, you can see a set of M12 connectors that supply 5V, 12V and 24V to external devices. Here, the connectors on the left provide 5V and 12V while the connectors on teh right supply 24V. Note that the connectors on the left side have 4 poles and the connectors on the right have 5 poles. This is to avoid inserting a male M12 connector that should be connected to a 5V/12V connection, into a 24V connection. Finally, also here are fuses added at 4A, as the connectors are rated for 4A.
+
+***
+
+In the next section you can read about instructions on how to manufacture, assemble and mount the backpack.
+
+> ➡️ [Next: Insctructions](./8-instructions.md)
+
+> ⬅️ [Previous: Princples](./06-principles.md)
+
+
 
 
 

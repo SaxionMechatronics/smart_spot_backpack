@@ -64,6 +64,14 @@ In addition to the electrical contstraints the GXP provides, it also exerts some
 
 Sheet metal parts have been manufatured via [247TailorSteel](https://www.247tailorsteel.com/en) which uses [SOPHIA](https://www.247tailorsteel.com/nl/sophia) as an online software tool for their manufaturing process. All sheet metal parts have to comply to their [manufacturing guidelines](https://www.247tailorsteel.com/en/service/submission-rules-and-guidelines), which include for example guidelines on cutting and bending of sheet metal parts.
 
+***
+
+In the next section you can read about the system requirements that gave rise to the design of the backpack.
+
+> ➡️ [Next: Requirements](./05-requirements.md)
+
+> ⬅️ [Previous: Quality Attributes](./03-quality-attributes.md)
+
 
 
 

@@ -8,3 +8,11 @@ In this section we are going to describe the key quality attributes that the sys
 * Robust: The backpack should be robust during use.
 
 Furthermore, it is out of scope that the backpack has to be rainproof. This decision has been motivated by the available resources (mainly time) during the development of the backpack. The backpack is meant to be a research  platform, not an actual product.
+
+***
+
+In the next section you can read about the system constraints that affected the design of the backpack.
+
+> ➡️ [Next: Constraints](./04-constraints.md)
+
+> ⬅️ [Previous: Functional Overview](./02-functional-overview.md)

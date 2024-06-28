@@ -16,3 +16,12 @@ The development environment section describes the used hardware and software too
 * Allen key set
 * Philips screwdriver
 * Wrapping tools (Optional)
+  
+***
+
+In the next section you can read the Architectural Decision Records, i.e. about decisions that a sigificant impact on the design of the backpack.
+
+> ➡️ [Next: Architecural Decision Records](./11-decision-log.md)
+
+> ⬅️ [Previous: Development Environment](./10-development-environment.md)
+

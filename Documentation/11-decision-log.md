@@ -82,3 +82,12 @@ Accepted.
 
 ### Status
 *What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?*
+
+***
+
+In the next section you can read about suggested changes to improve the design of the backpack.
+
+> ➡️ [Next: Suggested Changes](./12-Suggested-Changes.md)
+
+> ⬅️ [Previous: Architecural Decision Records](./11-decision-log.md)
+

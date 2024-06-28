@@ -36,8 +36,15 @@ This section dfescribes the functional and technical requirements for the SPOT b
 | TR0205 | The length of the backpack shall be at most 85 cm. | Longer payloads will reduce maneuverability. | M | 
 | TR0206 | The backpack shall have an IP rating of 0 where higher is better. | The backpack is built for research purposes only, it is therefore not required to have a higher IP rating. | M | 
 | TR0207 | The backpack shall be made out of aluminum sheet metal. | Sheet metal parts are relative sturdy, cheap and easy to design. Additionally, they are easy to modify if needed  (e.g. drilling holes, filing). | S | 
-| TR0208 | The backpack shall have only screw holes with insert nuts (e.g. rivets nuts, heat inserts) on its outer shell. | 1) User friendliness: A user should be able to (un)-screw any object located on outer shell as easy as possible. 2) Reliability: The threading of tapped holes may deteriorate over time with repeated (un-)screwing. | S | 
+| TR0208 | The backpack shall have only have screw holes with insert nuts (e.g. rivets nuts, heat inserts) on its outer shell. | 1) User friendliness: A user should be able to (un)-screw any object located on outer shell as easy as possible. 2) Reliability: The threading of tapped holes may deteriorate over time with repeated (un-)screwing. | S | 
 | TR0209 | When (un-)mounting,  backpack shall require one tool, and two assembly steps. | User friendliness. It should be easy to (un)-mount the backpack to facilitate switching between different projects if needed. | S | 
 | TR0210 | The  backpack shall require one disassembly step to access its internals. | Debugging and maintenance purposes. | S | 
 | TR0211 | The backpack shall have only 3 and 5 mm screw holes. | This is to prevent confusion between screw hole sizes during assembly | S | 
 
+***
+
+In the next section you can read about the principles that have been used to design and build the backpack. 
+
+> ➡️ [Next: Principles](./06-principles.md)
+
+> ⬅️ [Previous: Constraints](./04-constraints.md)

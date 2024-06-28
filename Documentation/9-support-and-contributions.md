@@ -8,4 +8,11 @@ We do not provide any support for this project. However, you can always reach ou
 ### Contributions
 You may contribute by developing a modification or feauture to the backpack and making a pull request. 
 
-**@TODO: How to handle (build, test, etc.) PRs for hardware projects?**
+***
+
+In the next section you can read about what kind of software and hardware tools you need to design and build the backpack.
+
+> ➡️ [Next: Development Environment](./10-development-environment.md)
+
+> ⬅️ [Previous: List of screws](./8.4-list-of-screws.md)
+

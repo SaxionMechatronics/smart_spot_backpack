@@ -7,9 +7,10 @@
     <em>SMART SPOT backpack being used in the CHARISMA project.</em>
 </p>
 
-This repository contains the SolidWorks files and documentation for the SMART SPOT Backpack: a backpack that has been developed for the Boston Dynamics robot SPOT as part of the CHARISMA project of the Smart Mechatronics And RoboTics (SMART) Research Group of the Saxion University of Applied Sciences. 
+This repository contains the SolidWorks files and documentation for the SMART SPOT Backpack: a backpack that has been developed for the Boston Dynamics robot [SPOT](https://bostondynamics.com/products/spot/) as part of the CHARISMA project of the [Smart Mechatronics And RoboTics (SMART) Research Group](https://www.saxion.edu/business-and-research/research/smart-industry/mechatronics) of the Saxion University of Applied Sciences. 
 
 # Documentation
+  * [A Word On Documentation](/Documentation/00-title.md)
   * [Context](/Documentation/01-context.md)
   * [Functional Overview](/Documentation/02-functional-overview.md)
   * [Quality Attributes](/Documentation/03-quality-attributes.md)

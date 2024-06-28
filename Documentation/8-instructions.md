@@ -7,5 +7,11 @@ This section gives followubg set of instructions:
 
 In addition you can find in [this](/Documentation/8.4-list-of-screws.md) document a list that summarizes the specific screws needed for assembly and mounting. 
 
-*Note that this section has been adjusted from chapter 10 "Deployment" of Simon Brown's guide for agile software architecture to "Instructions", as this fits better for this hardware project*.
+*Note: this section has been adjusted from chapter 10 "Deployment" of Simon Brown's guide for agile software architecture to "Instructions", as this fits better for this hardware project*.
+
+***
+
+> ➡️ [Next: Manufacturing Insctructions](./8.1-manufacturing-instructions.md)
+
+> ⬅️ [Previous: Implementation](./07-Implementation.md)
 

@@ -12,3 +12,7 @@ Below you can find a list of suggested changes:
 * Make the backpack larger, the current design is very cramped when you add all the wiring.
 * Decrease tolerance of nut holes of GNSS wings.
 * Improve design of the GNSS wings, there are currenlty a lot of screws for such a simple part.
+
+***
+
+> ⬅️ [Previous: Suggested Changes](./12-Suggested-Changes.md)

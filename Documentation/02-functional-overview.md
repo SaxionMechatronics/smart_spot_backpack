@@ -23,10 +23,7 @@ Below you can see a 3D version of the Backpack in Solidworks (without any add-on
 <p align="center">
     <img src="../Images/CAD%20Images/basic_backpack.png" style="display:inline-block; width:40%; margin-right:10px;">
     <img src="../Images/CAD%20Images/inner_backpack2.png" style="display:inline-block; width:40%; margin-right:10px;">
-    <div style="clear:both;"></div>
-    <div style="text-align: center;">
-        <em>Figure 2: Solidworks assembly of the backpack.</em>
-    </div>
+    <p align="center"><i>Solidworks assembly of the SMART SPOT Backpack.</i></p>
 </p>
 
 ***

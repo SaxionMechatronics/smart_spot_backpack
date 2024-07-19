@@ -10,23 +10,23 @@ For new ADRs, you can find a template at the [bottom](#00x-template) of this pag
 
 Decisions:
 <!-- no toc -->
-* [#003: Re-design version 1.0.0 such that the outershell will be mounted on top of the mounting plate](#003-re-design-version-100-such-that-the-outershell-will-be-mounted-on-top-of-the-mounting-plate)
+* [#003: Re-design version 1.0.0 such that the outer shell will be mounted on top of the mounting plate](#003-re-design-version-100-such-that-the-outershell-will-be-mounted-on-top-of-the-mounting-plate)
 * [#002: The backpack will not be rainproof](#002-the-backpack-will-not-be-rainproof)
 * [#001: We will design our own backpack](#001-we-will-design-our-own-backpack)
 
-## #003: Re-design version 1.0.0 such that the outershell will be mounted on top of the mounting plate
+## #003: Re-design version 1.0.0 such that the outer shell will be mounted on top of the mounting plate
 ### Context
-In [Version 1.0.0](https://bitbucket.org/mechatronica/spot_backpack_solidworks/src/1.0.0/), you had to slide in the mounting plate into the outershell, however, you also needed to first connected the GXP. Finally, you also needed to connect the side panels, once the mounting plate was inside the outershell.
+In [Version 1.0.0](https://bitbucket.org/mechatronica/spot_backpack_solidworks/src/1.0.0/), you had to slide in the mounting plate into the outer shell, however, you also needed to first connected the GXP. Finally, you also needed to connect the side panels, once the mounting plate was inside the outer shell.
 
-Overall, our initial version was very cumbersome to install and not userfriendly at all.
+Overall, our initial version was very cumbersome to install and not user-friendly at all.
 
 ### Decision
-We will re-design version 1.0.0 such that the outershell will be mounted on top of the mounting plate.
+We will re-design version 1.0.0 such that the outer shell will be mounted on top of the mounting plate.
 
 ### Consequences
-The consequence is that there is more time needed in development of the backpack. However, the backpack will be a lot more userfriendly w.r.t. to mounting and serviceablity.
+The consequence is that there is more time needed in development of the backpack. However, the backpack will be a lot more user-friendly w.r.t. to mounting and serviceability.
 
-The alternative is to not redesign it, however this would lead to a lot of frustation when working with the backpack.
+The alternative is to not redesign it, however this would lead to a lot of frustration when working with the backpack.
 
 ### Status
 Accepted.
@@ -34,7 +34,7 @@ Accepted.
 ## #002: The backpack will not be rainproof
 ### Context
 [Version 1.0.0](https://bitbucket.org/mechatronica/spot_backpack_solidworks/src/1.0.0/) of our backpack was made as a prototype to test if it is feasible to create our own backpack for our research group. This version was not rainproof.
-During development of this backpack in the CHARISMA project, the question came up whether the backpack should be rainproof. For context, in the CHARISMA project we investigated automatic inspections of gas pipline leakage, thus above ground and outdoors.
+During development of this backpack in the CHARISMA project, the question came up whether the backpack should be rainproof. For context, in the CHARISMA project we investigated automatic inspections of gas pipeline leakage, thus above ground and outdoors.
 
 ### Decision
 The backpack will not be rainproof.

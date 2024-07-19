@@ -58,11 +58,11 @@ The height of the payload impacts the robot’s ability to self-right and increa
 
 The [General Expansion Payload (GXP)](https://support.bostondynamics.com/s/article/Spot-General-Expansion-Payload-GXP) provides power and data communication to SPOT. 
 Specifically, it provides a maximum of 150W shared between 12V and 24V, and 5V at a maximum of 10W via a HD15 connector. The pin out can be found on the documentation site of the GXP. Data communication is provided via a RJ45 connector.
-In addition to the electrical contstraints the GXP provides, it also exerts some mechanical contrstraints: 1), The GXP must fit inside the backpack and 2), the cable of the GXP must be connected to the payload connector on the top surface of SPOT, otherwise the [motors of SPOT will not start up](https://dev.bostondynamics.com/docs/payload/robot_electrical_interface).
+In addition to the electrical constraints the GXP provides, it also exerts some mechanical constraints: 1), The GXP must fit inside the backpack and 2), the cable of the GXP must be connected to the payload connector on the top surface of SPOT, otherwise the [motors of SPOT will not start up](https://dev.bostondynamics.com/docs/payload/robot_electrical_interface).
 
 ## Sheet Metal Parts Manufacturing
 
-Sheet metal parts have been manufatured via [247TailorSteel](https://www.247tailorsteel.com/en) which uses [SOPHIA](https://www.247tailorsteel.com/nl/sophia) as an online software tool for their manufaturing process. All sheet metal parts have to comply to their [manufacturing guidelines](https://www.247tailorsteel.com/en/service/submission-rules-and-guidelines), which include for example guidelines on cutting and bending of sheet metal parts.
+Sheet metal parts have been manufactured via [247TailorSteel](https://www.247tailorsteel.com/en) which uses [SOPHIA](https://www.247tailorsteel.com/nl/sophia) as an online software tool for their manufacturing process. All sheet metal parts have to comply to their [manufacturing guidelines](https://www.247tailorsteel.com/en/service/submission-rules-and-guidelines), which include for example guidelines on cutting and bending of sheet metal parts.
 
 ***
 

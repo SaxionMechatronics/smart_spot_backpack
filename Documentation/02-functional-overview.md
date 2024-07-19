@@ -9,7 +9,7 @@ This section gives a functional overview of the system as shown in figure 1:
 </p>
 
 In this diagram you can see that:
-- The GXP provides power and data communication from SPOT 
+- The [General Expansion Payload (GXP)](https://support.bostondynamics.com/s/article/Spot-General-Expansion-Payload-GXP) provides power and data communication from SPOT 
 - The power button bridges the power from the GXP to the power distribution
 - Power is distributed via the power distribution (PWR Distr.) to the PC and to the interface panel
 - The PC provides WIFI via 2 WIFI antennas

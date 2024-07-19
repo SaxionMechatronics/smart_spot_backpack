@@ -6,9 +6,6 @@ This section describes the implementation details of this system. For this hardw
 
 You can find a bill of materials including costs and links to the respective products in `/Other Files`. Note that the list does not include tools and that some parts you may alrady have like the screws.
 
-The total price is ... for these specific parts. 
-
-
 ### Power Distribution
 
 You can find a diagram of the power distribution below:
@@ -19,7 +16,7 @@ You can find a diagram of the power distribution below:
     <em>Electrical diagram of the power distribution.</em>
 </p>
 
-This file has been created using [QElectrotech](), which is free and works both on Linux and Windows. The corresponding `.qet` file can be found in `/Other Files`.
+This file has been created using [QElectrotech](https://qelectrotech.org), which is free and works both on Linux and Windows. The corresponding `.qet` file can be found in `/Other Files`.
 
 In the figure above you can see the following:
 

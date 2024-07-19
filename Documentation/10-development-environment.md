@@ -1,11 +1,11 @@
 ## Development Environment
 
-The development environment section describes the used hardware and software tools to manufatcture and assemble the backpack.
+The development environment section describes the used hardware and software tools to manufacture and assemble the backpack.
 
 ### Software Tools
-* CURA (5.6.0)
-* Solidworks 2023
 * SOPHIA
+* CURA (5.6.0)
+* Solidworks 2023 (Only necessary if you want to (re)design parts)
 
 ### Hardware Tools
 * 3D printer
@@ -19,7 +19,7 @@ The development environment section describes the used hardware and software too
   
 ***
 
-In the next section you can read the Architectural Decision Records, i.e. about decisions that a sigificant impact on the design of the backpack.
+In the next section you can read the Architectural Decision Records, i.e. about decisions that a significant impact on the design of the backpack.
 
 > ➡️ [Next: Architecural Decision Records](./11-decision-log.md)
 

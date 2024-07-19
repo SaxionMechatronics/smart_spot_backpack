@@ -13,7 +13,7 @@ Constraints include:
 The only mounting surface that SPOT provides are aluminum rails that are located along the left and right edges of the body. The rails accept T-slot nuts such as Misumi HNTR5-5. Mounting screws should not project more than 6.3mm below the top surface of the mounting rail.
 
 <p align="center" width="100%">
-    <img src="../Images/Constraints/rails.png" style="width:50%">
+    <img src="../Images/Constraints/rails_grey_bg.png" style="width:50%">
     <br>
     <em>Aluminum rails for mounting.</em>
 </p>
@@ -36,7 +36,7 @@ For instance, SPOT's legs may shoot up when walking stairs or when self-righting
 One should thus avoid interference with the robot’s legs as shown below by avoiding the areas immediately adjacent to the robot’s hips.
 
 <p align="center" width="100%">
-    <img src="../Images/Constraints/payload_width2.png" style="width:50%">
+    <img src="../Images/Constraints/payload_width_grey_bg.png" style="width:50%">
     <br>
     <em>Payload width constraint. Wider payloads may obstruct the leg movements of SPOT.</em>
 </p>
@@ -45,7 +45,7 @@ One should thus avoid interference with the robot’s legs as shown below by avo
 The payload should not overhang the front or rear of the robot as this will reduce maneuverability. For instance, when SPOT is standing in a corner or a narrow, it may not be able to turn around.
 
 <p align="center" width="100%">
-    <img src="../Images/Constraints/payload_length2.png" style="width:50%">
+    <img src="../Images/Constraints/payload_length_grey_bg.png" style="width:50%">
     <br>
     <em>Payload length constraint. Wider payloads may obstruct the turning radius SPOT.</em>
 </p>

@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.1
+- Fixed typos in documentation
+- Added grey background to diagrams in order to facilitate users who use dark theme in their browser or code editor.
+- Used the SolidWorks `Pack and Go` method to reference to relative file paths instead of absolute ones.
+
 ## 2.0.0
 - Remodelled the entire the design to mount the outer shell from the top onto the mounting plate in order to make the design more user friendly  ([3eeae9e](https://bitbucket.org/mechatronica/spot_backpack_solidworks/commits/3eeae9e6f47fc8eeaf649caf8c29a7dcfb9d9c35)). As such, 
   - Bends on the panels and the main mounting plate have been removed.

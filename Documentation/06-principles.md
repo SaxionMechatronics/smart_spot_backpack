@@ -24,7 +24,7 @@ The backpack should have no high level constraints for new parts, in other words
 ### Requirements Formulation
 Requirements have been written based on [EARS](https://www.researchgate.net/publication/224079416_Easy_approach_to_requirements_syntax_EARS) and have been assigned a priority according to [MoSCoW](https://en.wikipedia.org/wiki/MoSCoW_method).
 
-### Repository Maintencance 
+### Repository Maintenance  
 Maintenance of the repository itself is based on [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
 
 ***

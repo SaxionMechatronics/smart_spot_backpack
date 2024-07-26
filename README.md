@@ -1,7 +1,7 @@
 # SMART SPOT Backpack
 
 <p align="center" width="100%">
-  <img src="./Images/Logos/charisma_logo_blackwhite.png">
+  <img src="./Images/Logos/logo_large_white_bg.png">
     <img src="./Images/KIWA_Test_Day/KIWA_2.jpg">
     <br>
     <em>SMART SPOT backpack being used in the CHARISMA project.</em>

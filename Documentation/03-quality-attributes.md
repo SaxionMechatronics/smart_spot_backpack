@@ -3,7 +3,7 @@
 In this section we are going to describe the key quality attributes that the system should satisfy. These are as follows:
 
 * Modularity: It should be easy to design modular payloads for the backpack in order to facilitate the needs of different projects.
-* Serviceability: The backpack should be easy to service. For instance, you should be able to service the backack while it is still mounted on SPOT.
+* Serviceability: The backpack should be easy to service. For instance, you should be able to service the backpack while it is still mounted on SPOT.
 * Usability: The backpack should not obstruct operations with SPOT in any way.
 * Robust: The backpack should be robust during use.
 

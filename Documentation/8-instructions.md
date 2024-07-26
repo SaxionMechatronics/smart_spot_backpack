@@ -1,6 +1,6 @@
 ## Instructions
 
-This section gives followubg set of instructions:
+This section gives following set of instructions:
 * [Manufacturing Instructions](/Documentation/8.1-manufacturing-instructions.md)
 * [Assembly Instructions](/Documentation/8.2-assembly-instructions.md)
 * [Mounting Instructions](/Documentation/8.3-mounting-instructions.md)
@@ -11,7 +11,7 @@ In addition you can find in [this](/Documentation/8.4-list-of-screws.md) documen
 
 ***
 
-> ➡️ [Next: Manufacturing Insctructions](./8.1-manufacturing-instructions.md)
+> ➡️ [Next: Manufacturing Instructions](./8.1-manufacturing-instructions.md)
 
 > ⬅️ [Previous: Implementation](./07-Implementation.md)
 

@@ -1,6 +1,6 @@
 ## Requirements
 
-This section dfescribes the functional and technical requirements for the SPOT backpack. Requirements have been written based on [EARS](https://www.researchgate.net/publication/224079416_Easy_approach_to_requirements_syntax_EARS) and have been assigned a priority according to [MoSCoW](https://en.wikipedia.org/wiki/MoSCoW_method). 
+This section describes the functional and technical requirements for the SPOT backpack. Requirements have been written based on [EARS](https://www.researchgate.net/publication/224079416_Easy_approach_to_requirements_syntax_EARS) and have been assigned a priority according to [MoSCoW](https://en.wikipedia.org/wiki/MoSCoW_method). 
 
 *Keep in mind that these requirements have been written in context of the CHARISMA project.*
 

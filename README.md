@@ -77,5 +77,5 @@ This project is released under the [CERN OHL v2 Weakly Reciprocal](https://choos
 This work from the SMART research group at Saxion University of Applied Sciences was supported by the Alliander Research Center for Digital Technologies and TechForFuture.
 
 <p align="center" width="100%">
-    <img src="./Images/Logos/Partner_Logos.png">
+    <img src="./Images/Logos/partner_logos_updated.png">
 </p>
